@@ -12,7 +12,7 @@ config_version=5
 
 config/name="3D RPG Udemy"
 config/features=PackedStringArray("4.4", "Mobile")
-config/icon="res://icon.svg"
+config/icon="uid://b4yju5kxabsrx"
 
 [input]
 
